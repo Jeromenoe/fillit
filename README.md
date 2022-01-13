@@ -1,2 +1,2 @@
 # fillit
-Fillit est un projet de découverte du backtracking. Le but est la recherche d'une solution optimale parmi un très grand nombre de possibilités, dans un délai raisonable. 
+Backtracking discovering project. We aim to find the optimal solution among a very large number of possibilities.
